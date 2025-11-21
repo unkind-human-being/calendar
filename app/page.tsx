@@ -52,7 +52,7 @@ export default function Home() {
       {/* MAIN CALENDAR */}
       <div className="flex-1 p-6 flex flex-col items-center">
 
-        <h1 className="text-5xl font-extrabold drop-shadow-lg mt-10">🗓️ My Calendar</h1>
+        <h1 className="text-5xl font-extrabold drop-shadow-lg mt-10">Campus Secretary</h1>
         <p className="text-lg opacity-80 mt-2">Plan your schedule with clarity</p>
 
         <div className="mt-10 w-full max-w-xl p-6 bg-white/10 backdrop-blur-xl border border-white/10 rounded-3xl shadow-2xl">
